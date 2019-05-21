@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Database CRUD</string>
+    <string name="title_activity_edit">editActivity</string>
+</resources>
